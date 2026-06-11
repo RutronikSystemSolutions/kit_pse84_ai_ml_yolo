@@ -6,7 +6,9 @@ Then select the KIT PSE84 AI board and click "Next".
 
 <img src="./../pictures/using_code_example_2.png" style="zoom:100%;" />
 
-TODO: Screenshot when uploaded inside MTB.
+Select the correct project.
+
+<img src="./../pictures/using_code_example_4.png" style="zoom:100%;" />
 
 Then click on "Build Application" and "... Program Application" to download the firmware on the PSE84 AI board.
 
