@@ -20,8 +20,6 @@ A software is available inside the /gui directory to visualize the output.
 ## Supported toolchains (make variable 'TOOLCHAIN')
 
 - GNU Arm&reg; Embedded Compiler v14.2.1 (`GCC_ARM`) – Default value of `TOOLCHAIN`
-- Arm&reg; Compiler v6.22 (`ARM`)
-- IAR C/C++ Compiler v9.50.2 (`IAR`)
 - LLVM Embedded Toolchain for Arm&reg; v19.1.5 (`LLVM_ARM`)
 
 

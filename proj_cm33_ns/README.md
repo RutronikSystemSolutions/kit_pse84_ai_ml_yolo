@@ -1,4 +1,4 @@
-# KIT PSE84 AI: OV7675 and BGT60TR13C data streaming over USB
+# KIT PSE84 AI: YOLO usage on PSOC EDGE using OV7675 camera
 
 The CM33 project starts the CM55 code and goes to sleep.
 
