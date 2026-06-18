@@ -21,3 +21,9 @@ Read a RBG BMP file, and apply an adaptive threshold to it to convert it to a bl
 
 ## adaptive_threshold_conversion.py
 Convert all pictures inside a directory (RBG) to black and white pictures.
+
+## analyse_output.py
+Enable to analyse the output of the training by Deepcraft(TM) Studio to see what has been discovered.
+
+## deepcraft_utils.py
+Enable to do data augmentation based on a ".improj" project. Enable to plot statistics. Enable to convert it to YOLO format.
