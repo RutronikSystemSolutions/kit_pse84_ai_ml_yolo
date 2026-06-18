@@ -151,3 +151,6 @@ ehthumbs.db
 ehthumbs_vista.db
 [Dd]esktop.ini
 .clang-format
+/gui/src/.vs
+gui/src/kit_pse84_ai_streaming.csproj.user
+/gui/src/obj
